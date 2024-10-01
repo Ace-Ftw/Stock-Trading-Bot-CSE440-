@@ -1,0 +1,1 @@
+# Stock Trading Bot: Build an AI-powered stock trading bot that makes buy/sell decisions based on market data and historical trends. Train the bot using reinforcement learning algorithms to optimize trading strategies and maximize profits.
